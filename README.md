@@ -1,3 +1,3 @@
 # karutaproject
 
-Look at the wiki of the project.
+Look at the Wiki of the project for last information.
