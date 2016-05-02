@@ -1,3 +1,3 @@
-# karutaproject
+# Karuta Project Wiki
 
-Look at the Wiki of the project for the latest information.
+Look at the Wiki section of the project for the latest information.
